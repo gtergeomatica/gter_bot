@@ -15,4 +15,14 @@ nohup python test_gter_bot.py
 
 Per usarlo è necessario usare la libreria telepot 
 
-sudo pip install telepot 
+sudo pip install telepot
+
+
+## Da botfather
+
+/setcommands
+
+chatid - Il comando consente di conoscere l'ID della chat che è connesso al proprio nome
+getinfo - Restituisce informazioni complete circa il messaggio inviato
+myip - conoscere l'indirizzo IP del server su cui risiede lo script python che fa funzionare il bot
+sito_gter - Restituisce il link al nostro sito
